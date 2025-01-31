@@ -18,3 +18,8 @@
 #     artifact-name: corne_left_with_studio
 #
 ---
+include:
+  - board: splitkb_halcyon_controller
+    shield: splitkb_halcyon_kyria_left
+  - board: splitkb_halcyon_controller
+    shield: splitkb_halcyon_kyria_right
