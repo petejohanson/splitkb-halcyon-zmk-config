@@ -23,3 +23,12 @@ include:
     shield: splitkb_halcyon_kyria_left
   - board: splitkb_halcyon_controller
     shield: splitkb_halcyon_kyria_right
+  - board: splitkb_halcyon_controller
+    shield: splitkb_halcyon_kyria_left
+    snippet: studio-rpc-usb-uart
+    cmake-args: -DCONFIG_ZMK_STUDIO=y
+    artifact-name: studio_splitkb_halcyon_kyria_left
+  - board: splitkb_halcyon_controller
+    shield: splitkb_halcyon_kyria_right
+    cmake-args: -DCONFIG_ZMK_STUDIO=y
+    artifact-name: studio_splitkb_halcyon_kyria_right
