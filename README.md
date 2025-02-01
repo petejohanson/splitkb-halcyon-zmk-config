@@ -8,13 +8,13 @@ https://github.com/zmkfirmware/zmk/pull/2766
 
 * Normal ZMK use, including split
 * ZMK Studio
+* Halcyon Display Module (Add `splitkb_halcyon_dislay_mod` to your shields list in your build)
 
 ## Not (Yet) Supported
 
 The following features are not yet supported, but will be worked on incrementally:
 
 * Cirque Halcyon Module
-* Display Halcyon Module
 * Encoder Halcyon Module
 * RGB
 
