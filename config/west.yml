@@ -8,8 +8,8 @@ manifest:
     # See https://docs.zephyrproject.org/3.2.0/develop/west/manifest.html#projects
   projects:
     - name: zmk
-      remote: petejohanson
-      revision: split/wired-split-first-pass
+      remote: zmkfirmware
+      revision: main
       import: app/west.yml
     - name: splitkb-halcyon-zmk-module
       remote: petejohanson
