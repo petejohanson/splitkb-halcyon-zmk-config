@@ -8,7 +8,7 @@ https://github.com/zmkfirmware/zmk/pull/2766
 
 * Normal ZMK use, including split
 * ZMK Studio
-* Halcyon Display Module (Add `splitkb_halcyon_dislay_mod` to your shields list in your build)
+* Halcyon Display Module (Add `splitkb_halcyon_display_mod` to your shields list in your build)
 
 ## Not (Yet) Supported
 
